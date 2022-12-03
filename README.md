@@ -1,5 +1,5 @@
 # Simply load, slice, cache, and analyze.
-A Fast feature-packed multi-dimensional labeled vector matrix for market data.
+A Fast feature-packed multi-dimensional labeled vector matrix for market signal data.
 
 Powered by C, Numba, Numpy. Target use is Freqtrade and FreqAI.
 
