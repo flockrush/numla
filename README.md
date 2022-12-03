@@ -54,6 +54,4 @@ Create train and test numpy arrays with NaN clean data:
 
 ![8e243b96-c882-441b-9a58-e869ff896b0d_original (2)](https://user-images.githubusercontent.com/13509246/205417536-b5b3798e-02f7-4eb1-8ff7-7c7b8a878e4c.png)
 
-Making life surfable. Surfable Inc.
-
 We are supportive, we don't take things too seriously, and we have a single-minded focus to be "Fast".
